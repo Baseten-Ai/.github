@@ -15,7 +15,7 @@ The baseten inference experience is designed around practical model operations: 
 
 For organizations comparing a baseten platform approach with custom infrastructure, the main advantage is focus. Instead of managing every GPU host, queue, container, and release path manually, teams can use baseten deploy patterns, baseten serverless options, and baseten gpu capacity to support LLM, computer vision, classification, and custom machine learning services.
 
-![Baseten Interface](FOTO)
+![Baseten Interface](https://sentry.io/_astro/logo-baseten-new.B5L4sLMX.png)
 
 ---
 
